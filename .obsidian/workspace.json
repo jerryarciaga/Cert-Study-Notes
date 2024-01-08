@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practice Test Notes.md",
+                "file": "03 Jan 24 Practice Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1c4ad443a569069c",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Practice Test Notes.md",
+                "file": "03 Jan 24 Practice Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Practice Test Notes.md",
+                "file": "03 Jan 24 Practice Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Practice Test Notes.md"
+                "file": "03 Jan 24 Practice Test.md"
               }
             }
           }
@@ -163,7 +162,7 @@
   "active": "4c99fe30a7596f17",
   "lastOpenFiles": [
     "README.md",
-    "Practice Test Notes.md",
+    "03 Jan 24 Practice Test.md",
     "Practice Test Notes"
   ]
 }
