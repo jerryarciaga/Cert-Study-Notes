@@ -1,4 +1,5 @@
 {
   "vimMode": true,
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "showLineNumber": true
 }
