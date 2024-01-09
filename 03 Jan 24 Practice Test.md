@@ -43,3 +43,8 @@
 13. `/etc/profile` contains environment variables that apply for all users on a Linux machine.
 14. Which command specifies network filtering rules for entire sets of IP addresses?
 	**Answer**: `ipset` or `sudo ipset`. `ipset` is a complimentary tool to be used with `iptables` that allows you to specify rules that apply to entire *sets* of IP addresses.
+15. `echo $#` returns the number of positional arguments / **command line parameters** passed.
+16.  You need an **interface to boot** a Linux system that supports remote diagnostics and troubleshooting in case there is an issue. Which of these should you choose?
+	**Answer**: UEFI
+17. `pam_tally2 --user=$USER --reset` unlocks user accounts
+18. `PATH=$PATH=/usr/bin/bash` sets the command search path for the shell
