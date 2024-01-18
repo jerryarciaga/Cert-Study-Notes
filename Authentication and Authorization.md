@@ -40,3 +40,14 @@ Example: In `/etc/sudoers`:
 root ALL=(ALL:ALL) ALL
 <user> <host>=(<target run-as user>:<target run-as group>) <which command>
 ```
+
+# Installing and Configuring an LDAP Server
+## Install/Setup for LDAP
+1. set hostname using `hostnamectl`
+2. map hostname to IP address in `/etc/hosts`
+3. install using `sudo apt install slapd ldap-utils`
+4. Enter admin password, then confirm
+5. Verify installation using `sudo slapcat`
+6. Verify system status using `sudo service slapd status`
+7. `sudo dpkg-reconfigure slapd`
+8. Edit the `ou.ldif` file
