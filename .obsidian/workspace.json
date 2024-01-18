@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6a7e48d03fb4e906",
+        "id": "3ae65f3369f0fba0",
         "type": "tabs",
         "children": [
           {
-            "id": "4c99fe30a7596f17",
+            "id": "c47c1c8a63a9c780",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Jan 24 Practice Test.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b23f5ccb53e7b35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "09 Jan 24 Practice Test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15364661712b0829",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Authentication and Authorization.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e6f2474cab76d26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Securing Linux.md",
+                "file": "Linux+/03 Jan 24 Practice Test.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1c4ad443a569069c",
@@ -123,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Securing Linux.md",
+                "file": "Linux+/03 Jan 24 Practice Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Securing Linux.md",
+                "file": "Linux+/03 Jan 24 Practice Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Securing Linux.md"
+                "file": "Linux+/03 Jan 24 Practice Test.md"
               }
             }
           }
@@ -184,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e6f2474cab76d26",
+  "active": "c47c1c8a63a9c780",
   "lastOpenFiles": [
     "Authentication and Authorization.md",
     "Securing Linux.md",
