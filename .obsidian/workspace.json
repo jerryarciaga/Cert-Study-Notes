@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RHCSA/Using Linux Shells.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a42b7d4d51fe4c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a42b7d4d51fe4c2",
+  "active": "cf7313cd9e3179b8",
   "lastOpenFiles": [
-    "Linux+/README.md",
     "README.md",
-    "Linux+.md",
+    "Linux+/Authentication.md",
     "RHCSA/Using Linux Shells.md",
+    "Linux+/README.md",
+    "Linux+.md",
     "Linux+/03 Jan 24 Practice Test.md",
     "RHCSA/Untitled.md",
     "RHCSA",
