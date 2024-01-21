@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a42b7d4d51fe4c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RHCSA/Using Linux Shells.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RHCSA/Using Linux Shells.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RHCSA/Using Linux Shells.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,17 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf7313cd9e3179b8",
+  "active": "6a42b7d4d51fe4c2",
   "lastOpenFiles": [
-    "Linux+/03 Jan 24 Practice Test.md",
+    "Linux+/README.md",
+    "README.md",
+    "Linux+.md",
     "RHCSA/Using Linux Shells.md",
+    "Linux+/03 Jan 24 Practice Test.md",
     "RHCSA/Untitled.md",
     "RHCSA",
     "Authentication and Authorization.md",
     "Securing Linux.md",
     "09 Jan 24 Practice Test.md",
     "03 Jan 24 Practice Test.md",
-    "README.md",
     "Practice Test Notes"
   ]
 }
