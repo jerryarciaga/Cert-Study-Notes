@@ -1,4 +1,4 @@
-# Back to [Table of Contents](/README.md)
+[Table of Contents](/README.md)
 # Viewing and Comparing File Contents from a Shell
 * `cat` - prints file contents
 * `tac` - prints file contents but in reverse
@@ -25,4 +25,4 @@ To make this permanent, add alias to `bash.profile`
 
 # Creating and Editing Files in the Shell
 
-# Next: [File Management](File%20Management.md)
+Next: [File Management](File%20Management.md)
