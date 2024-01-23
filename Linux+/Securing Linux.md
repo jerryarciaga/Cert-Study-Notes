@@ -17,3 +17,6 @@
 # Managing UEFI (Unified Extensible Firmware Interface)
 * Supersedes Basic Input/Output System (BIOS) since 2010
 * Supports larger disks, GUI management, secure boot
+
+# Previous: [Authentication and Authorization](Authentication%20and%20Authorization.md)
+# Next: [03 Jan 24 Practice Test](03%20Jan%2024%20Practice%20Test)

@@ -53,3 +53,5 @@ root ALL=(ALL:ALL) ALL
 6. Verify system status using `sudo service slapd status`
 7. `sudo dpkg-reconfigure slapd`
 8. Edit the `ou.ldif` file
+
+# Next: [Securing Linux](Securing%20Linux.md)
