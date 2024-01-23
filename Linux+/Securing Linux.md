@@ -19,4 +19,4 @@
 * Supports larger disks, GUI management, secure boot
 
 # Previous: [Authentication and Authorization](Authentication%20and%20Authorization.md)
-# Next: [03 Jan 24 Practice Test](03%20Jan%2024%20Practice%20Test)
+# Next: [03 Jan 24 Practice Test](03%20Jan%2024%20Practice%20Test.md)

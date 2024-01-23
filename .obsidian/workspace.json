@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Linux+/Securing Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Linux+/Securing Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Linux+/Securing Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Linux+/Securing Linux.md"
               }
             }
           }
@@ -160,12 +160,12 @@
   },
   "active": "cf7313cd9e3179b8",
   "lastOpenFiles": [
-    "Linux+/03 Jan 24 Practice Test.md",
     "Linux+/09 Jan 24 Practice Test.md",
+    "Linux+/03 Jan 24 Practice Test.md",
+    "Linux+/Securing Linux.md",
+    "README.md",
     "RHCSA/File Management.md",
     "RHCSA/Using Linux Shells.md",
-    "README.md",
-    "Linux+/Securing Linux.md",
     "Authentication.md",
     "Linux+/Authentication and Authorization.md",
     "RHCSA/1. Using Linux Shells.md",
