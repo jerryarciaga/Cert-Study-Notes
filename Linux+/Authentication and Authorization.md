@@ -1,4 +1,4 @@
-# Back to [Table of Contents](/README.md)
+[Table of Contents](/README.md)
 
 # Authentication and Authorization
 * Authentication: proof of identity (`/etc/passwd` file)
@@ -54,4 +54,4 @@ root ALL=(ALL:ALL) ALL
 7. `sudo dpkg-reconfigure slapd`
 8. Edit the `ou.ldif` file
 
-# Next: [Securing Linux](Securing%20Linux.md)
+Next: [Securing Linux](Securing%20Linux.md)

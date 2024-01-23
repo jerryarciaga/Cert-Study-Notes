@@ -1,3 +1,5 @@
+[Table of Contents](/README.md)
+
 # Answers & Test Notes
 
 1. Manual installation process for GRUB2 on a BIOS System?
@@ -49,5 +51,5 @@
 17. `pam_tally2 --user=$USER --reset` unlocks user accounts
 18. `PATH=$PATH=/usr/bin/bash` sets the command search path for the shell
 
-# Previous: [Securing Linux](Securing%20Linux.md)
-# Next: [09 Jan 24 Practice Test](09%20Jan%2024%20Practice%20Test.md)
+Previous: [Securing Linux](Securing%20Linux.md)
+Next: [09 Jan 24 Practice Test](09%20Jan%2024%20Practice%20Test.md)

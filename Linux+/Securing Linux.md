@@ -1,4 +1,4 @@
-# Back to [Table of Contents](/README.md)
+[Table of Contents](/README.md)
 # Linux Hardening
 * Reduce the attack surface
 * Manual (editing config files) or automated - via a centralized configuration management tool such as Ansible or Puppet
@@ -18,5 +18,5 @@
 * Supersedes Basic Input/Output System (BIOS) since 2010
 * Supports larger disks, GUI management, secure boot
 
-# Previous: [Authentication and Authorization](Authentication%20and%20Authorization.md)
-# Next: [03 Jan 24 Practice Test](03%20Jan%2024%20Practice%20Test.md)
+Previous: [Authentication and Authorization](Authentication%20and%20Authorization.md)
+Next: [03 Jan 24 Practice Test](03%20Jan%2024%20Practice%20Test.md)
