@@ -13,8 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "RHCSA/2. File Management.md",
                 "mode": "source",
+=======
+                "file": "README.md",
+                "mode": "preview",
+>>>>>>> parent of 41cf4f1 (Revised Table of Contents; added Description)
                 "source": false
               }
             }
