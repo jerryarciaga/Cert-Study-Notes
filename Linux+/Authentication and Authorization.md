@@ -1,5 +1,4 @@
-[Table of Contents](/README.md)
-
+[Table of Contents](/Linux+/Linux+%20Table%20of%20Contents.md)
 # Authentication and Authorization
 * Authentication: proof of identity (`/etc/passwd` file)
 * Authorization: specific access

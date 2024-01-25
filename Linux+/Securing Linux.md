@@ -1,4 +1,5 @@
-[Table of Contents](/README.md)
+[Table of Contents](/Linux+/Linux+%20Table%20of%20Contents.md)
+
 # Linux Hardening
 * Reduce the attack surface
 * Manual (editing config files) or automated - via a centralized configuration management tool such as Ansible or Puppet

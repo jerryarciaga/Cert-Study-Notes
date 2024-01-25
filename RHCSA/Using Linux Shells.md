@@ -1,4 +1,5 @@
-[Table of Contents](/README.md)
+[Table of Contents](/RHCSA/RHCSA%20Table%20of%20Contents.md)
+
 # Viewing and Comparing File Contents from a Shell
 * `cat` - prints file contents
 * `tac` - prints file contents but in reverse

@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RHCSA/File Management.md",
-                "mode": "source",
+                "file": "Linux+/Linux+ Table of Contents.md",
+                "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "6460a8258ebac3e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4cca47792e44361",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RHCSA/File Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RHCSA/File Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "RHCSA/File Management.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,16 +163,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf7313cd9e3179b8",
+  "active": "a4cca47792e44361",
   "lastOpenFiles": [
-    "RHCSA/Performing Actions on Files that are Found.md",
     "RHCSA/Using Linux Shells.md",
+    "RHCSA/Performing Actions on Files that are Found.md",
+    "RHCSA/RHCSA Table of Contents.md",
     "RHCSA/File Management.md",
-    "README.md",
     "Linux+/Securing Linux.md",
+    "Linux+/03 Jan 24 Practice Test.md",
+    "Linux+/Linux+ Table of Contents.md",
     "Linux+/Authentication and Authorization.md",
     "Linux+/09 Jan 24 Practice Test.md",
-    "Linux+/03 Jan 24 Practice Test.md",
+    "README.md",
+    "Securint Linux.md",
     "Authentication.md",
     "RHCSA/1. Using Linux Shells.md",
     "Linux+/2. Securing Linux.md",
