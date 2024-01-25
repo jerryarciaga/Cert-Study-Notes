@@ -15,5 +15,3 @@ Example:
 * `find -name "Project*"` returns files that are found.
 * `find . -type f -print | wc -l`
 * `find -user $USER` finds files owned by $USER
-
-# Performing Actions on Files that are Found
