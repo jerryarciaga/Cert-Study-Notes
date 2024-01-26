@@ -23,7 +23,3 @@ To make this permanent, add alias to `bash.profile`
 * Most variables in Linux are uppercase.
 * `export` lets the variable be exported so it can be available outside the current shell's scope.
 * `setenv` creates environment variables.
-
-# Creating and Editing Files in the Shell
-
-Next: [File Management](File%20Management.md)
