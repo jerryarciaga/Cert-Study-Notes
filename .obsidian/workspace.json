@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AZ-900/AZ-900 Table of Contents.md",
+                "file": "AZ-900/Describe Cloud Computing.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AZ-900/AZ-900 Table of Contents.md",
+                "file": "AZ-900/Describe Cloud Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AZ-900/AZ-900 Table of Contents.md",
+                "file": "AZ-900/Describe Cloud Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AZ-900/AZ-900 Table of Contents.md"
+                "file": "AZ-900/Describe Cloud Computing.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "cf7313cd9e3179b8",
   "lastOpenFiles": [
-    "README.md",
+    "AZ-900/Describe Cloud Computing.md",
     "AZ-900/AZ-900 Table of Contents.md",
+    "README.md",
     "RHCSA/File Management.md",
     "RHCSA/RHCSA Table of Contents.md",
     "RHCSA/Using Linux Shells.md",
@@ -176,7 +177,6 @@
     "Authentication and Authorization.md",
     "Securing Linux.md",
     "09 Jan 24 Practice Test.md",
-    "03 Jan 24 Practice Test.md",
     "Practice Test Notes"
   ]
 }
