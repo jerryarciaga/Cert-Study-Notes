@@ -78,7 +78,7 @@ Cloud computing is a way to rent compute power and storage from someone else's d
 * Refers to the ability to adjust resources to meet demand.
 * Ensures you aren't overpaying for services.
 * **Vertical Scaling** - adding or lowering CPU and RAM specifications to a virtual machine.
-* **Horizontal Scaling** - adding or removing virtual machines on demand
+* **Horizontal Scaling** - adding or removing virtual machines on demand.
 
 ## Describe the benefits of reliability and predictability in the cloud
 ### Reliability
