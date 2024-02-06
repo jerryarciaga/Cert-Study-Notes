@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AZ-900/Describe Cloud Computing.md",
+                "file": "AZ-900/Describe Cloud Concepts.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1c4ad443a569069c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AZ-900/Describe Cloud Computing.md",
+                "file": "AZ-900/Describe Cloud Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AZ-900/Describe Cloud Computing.md",
+                "file": "AZ-900/Describe Cloud Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AZ-900/Describe Cloud Computing.md"
+                "file": "AZ-900/Describe Cloud Concepts.md"
               }
             }
           }
@@ -149,8 +148,8 @@
   },
   "active": "cf7313cd9e3179b8",
   "lastOpenFiles": [
-    "AZ-900/Describe Cloud Computing.md",
     "AZ-900/AZ-900 Table of Contents.md",
+    "AZ-900/Describe Cloud Concepts.md",
     "README.md",
     "RHCSA/File Management.md",
     "RHCSA/RHCSA Table of Contents.md",
