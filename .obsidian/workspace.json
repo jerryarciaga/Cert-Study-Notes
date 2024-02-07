@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "af031f0d1c01e494",
+        "id": "3ec61547ad681924",
         "type": "tabs",
         "children": [
           {
-            "id": "cf7313cd9e3179b8",
+            "id": "9d0982e40acd304c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf7313cd9e3179b8",
+  "active": "9d0982e40acd304c",
   "lastOpenFiles": [
     "AZ-104/AZ-104 Table of Contents.md",
-    "README.md",
     "AZ-104/Prerequisites for Azure Administrators.md",
+    "README.md",
     "Untitled.md",
     "AZ-900/Describe Cloud Concepts.md",
     "AZ-104",
