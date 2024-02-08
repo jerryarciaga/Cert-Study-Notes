@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2963293398fe530a",
+            "id": "dd51c2468f04d204",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,6 +17,14 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "de385f6cc4301da8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1c4ad443a569069c",
@@ -147,10 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2963293398fe530a",
+  "active": "dd51c2468f04d204",
   "lastOpenFiles": [
-    "AZ-104/00_AZ-104_Table_of_Contents.md",
     "AZ-104/01_Azure_Active_Directory.md",
+    "AZ-104/00_AZ-104_Table_of_Contents.md",
+    "README.md",
     "AZ-104/Untitled",
     "Untitled.md",
     "AZ-900/01_Describe_Cloud_Concepts.md",
@@ -163,7 +171,6 @@
     "02_Linux+",
     "RHCSA/00_RHCSA_Table_of_Contents.md",
     "AZ-900/00_AZ-900_Table_of_Contents.md",
-    "README.md",
     "RHCSA/02_File_Management.md",
     "RHCSA/01_Using_Linux_Shells.md",
     "AZ-104/Prerequisites for Azure Administrators.md",

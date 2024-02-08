@@ -15,4 +15,72 @@
 ## Azure AD
 * **Azure AD** takes this approach by providing organizations with an Identity as a Service solution for all their apps across cloud and on-premises.
 * Both are still used today
-# Terminology
+# Active Directory Terminology
+## Domain
+A domain is an area of a network organized by a single authentication database.
+**An Active Directory domain** is a **logical grouping** of AD objects on a network.
+## Domain Controller
+Server that authenticates user identities and authorizes their access to resources.
+## Domain Computer
+Computer registered with a central authentication database. This would be an AD Object.
+## AD Object
+Basic element of a Active Directory such as: Users, Groups, Printers, Computers, Shared Folders
+## Group Policy Object
+Virtual collection of policy settings. Controls access for AD Objects.
+## Organizational Units (OU)
+Subdivision within Active Directory where you place AD Objects to. Provides logical grouping.
+## Directory Service
+Provides the methods of storing directory data and making data available to network users and administrators. Runs on a Domain Controller.
+# Azure AD Tenant
+* A **tenant** represents an organization in Azure Active Directory.
+* Automatically created when you sign up for either
+	* Microsoft Azure
+	* Microsoft Intune
+	* Microsoft 365
+# Azure AD Domain Services (AD DS)
+* AD DS provides **managed domain service** such as:
+	* Domain joins
+	* Group policies
+	* Lightweight directory access protocol (LDAP)
+	* Kerberos/NTLM authentication
+# Azure AD Connect
+* **Azure AD Connect** is a hybrid service to connect your on-premise Active Directory to your Azure Account
+* Allows for SSO from your on-premise workstation to Microsoft Azure
+* Azure AD Connect has the following features:
+	* **Password Hash Synchronization** - sign-in method, synchronizes a hash of a users on-premises AD password with Azure AD.
+	* **Pass-through authentication** - sign-in method, allows users to use the same password on-premises and in the cloud.
+	* **Federation integration** - hybrid environment using an on-premises AD FS infrastructure, for certificate renewal
+	* **Synchronization** - Responsible for creating users, groups, and other objects, ensures on-prem and cloud data matches
+	* **Health Monitoring** - robust monitoring and provide a central location in the Azure portal (Azure AD Connect Health) to view this activity.
+# Azure Active Directory Users
+* Users represent and **identify for a person or employee** in your domain. A user has login credentials and can use them to log into the Azure portal.
+* You can assign **admin roles** to users
+* You can add users to groups
+* You can enforce authentication methods such as (MFA) Multi-Factor Authentication
+* You can track user sign ins
+* Track devices user's login from and allow and deny devices
+* Assign Microsoft Licenses
+* Azure AD has two kinds of users:
+	* Users - a user belongs to your organization
+	* Guest Users - A guest user belongs to another organization
+# Active Directory Groups
+**Groups** let the resource owner (or Azure AD directory owner) assign a set of access permissions to all the members of a group, instead of having to provide the rights one-by-one.
+* Groups contain:
+	* **Owners** - Has permissions to add and remove members
+	* **Members** - has permissions to do things
+* Assignment
+	* You can assign roles directly to a group
+	* You can assign applications directly to a group.
+## Request to Join Groups
+The group owner can let users find their groups to join, instead of assigning them. The owner can also set up the group to automatically accept all users that joint or to require approval.
+# AD Assign Access Rights
+* Four ways to **assign access rights** to your users:
+	* **Direct Assignment** - the resources owner directly assigns the user to the resources.
+	* **Group Assignment** - resource owner assigns an Azure AD group to the resource, giving all of the group members access to the resource
+	* **Rule-Based Assignment** - The resource owner creates a group and uses a rule to define which users are assigned to a specific resource.
+	* **External Authority Assignment** - Access comes form an external source, such as an on-premises directory or a SaaS app.
+# External Identities
+**External Identities** in Azure AD, allow people outside your organization to access your apps and resources, while letting them sign in whatever identity they prefer.
+* Share apps with external users (B2B collaboration)
+* Develop apps intended for other Azure AD tenants (single-tenant or multi-tenant)
+* Develop white-labeled apps for consumers and customers (Azure AD B2C)
