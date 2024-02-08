@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RHCSA/00_RHCSA_Table_of_Contents.md",
+                "file": "Linux+/00_Linux+_Table_of_Contents.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2963293398fe530a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RHCSA/00_RHCSA_Table_of_Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RHCSA/00_RHCSA_Table_of_Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "RHCSA/00_RHCSA_Table_of_Contents.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,13 +151,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d0982e40acd304c",
+  "active": "2963293398fe530a",
   "lastOpenFiles": [
-    "AZ-900/00_AZ-900_Table_of_Contents.md",
     "Linux+/00_Linux+_Table_of_Contents.md",
+    "02_Linux+/Securing_Linux.md",
+    "02_Linux+",
+    "RHCSA/00_RHCSA_Table_of_Contents.md",
+    "AZ-900/00_AZ-900_Table_of_Contents.md",
     "Linux+/03_03_Jan_24_Practice_Test.md",
     "AZ-900/01_Describe_Cloud_Concepts.md",
-    "RHCSA/00_RHCSA_Table_of_Contents.md",
     "README.md",
     "Linux+/04_09_Jan_24_Practice_Test.md",
     "Linux+/01_Authentication_and_Authorization.md",
@@ -176,7 +183,6 @@
     "RHCSA/2. File Management.md",
     "Linux+/Authentication.md",
     "Linux+/README.md",
-    "Linux+.md",
     "RHCSA",
     "Practice Test Notes"
   ]
