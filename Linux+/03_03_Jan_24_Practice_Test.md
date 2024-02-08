@@ -1,5 +1,3 @@
-[Table of Contents](Linux+/00_Linux+_Table_of_Contents.md)
-
 # Answers & Test Notes
 
 1. Manual installation process for GRUB2 on a BIOS System?

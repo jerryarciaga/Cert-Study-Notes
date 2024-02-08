@@ -1,5 +1,3 @@
-[Table of Contents](Linux+/00_Linux+_Table_of_Contents.md)
-
 # Linux Hardening
 * Reduce the attack surface
 * Manual (editing config files) or automated - via a centralized configuration management tool such as Ansible or Puppet

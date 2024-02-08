@@ -23,8 +23,12 @@
             "id": "2963293398fe530a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AZ-900/01_Describe_Cloud_Concepts.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AZ-900/01_Describe_Cloud_Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AZ-900/01_Describe_Cloud_Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AZ-900/01_Describe_Cloud_Concepts.md"
+              }
             }
           }
         ]
@@ -153,17 +161,17 @@
   },
   "active": "2963293398fe530a",
   "lastOpenFiles": [
+    "Linux+/04_09_Jan_24_Practice_Test.md",
+    "Linux+/03_03_Jan_24_Practice_Test.md",
+    "Linux+/02_Securing_Linux.md",
+    "Linux+/01_Authentication_and_Authorization.md",
     "Linux+/00_Linux+_Table_of_Contents.md",
     "02_Linux+/Securing_Linux.md",
     "02_Linux+",
     "RHCSA/00_RHCSA_Table_of_Contents.md",
     "AZ-900/00_AZ-900_Table_of_Contents.md",
-    "Linux+/03_03_Jan_24_Practice_Test.md",
     "AZ-900/01_Describe_Cloud_Concepts.md",
     "README.md",
-    "Linux+/04_09_Jan_24_Practice_Test.md",
-    "Linux+/01_Authentication_and_Authorization.md",
-    "Linux+/02_Securing_Linux.md",
     "RHCSA/02_File_Management.md",
     "RHCSA/01_Using_Linux_Shells.md",
     "AZ-104/00_AZ-104_Table_of_Contents.md",

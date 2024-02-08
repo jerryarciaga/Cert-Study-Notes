@@ -1,4 +1,3 @@
-[Table of Contents](Linux+/00_Linux+_Table_of_Contents.md)
 # Authentication and Authorization
 * Authentication: proof of identity (`/etc/passwd` file)
 * Authorization: specific access
