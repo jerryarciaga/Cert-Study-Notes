@@ -1,4 +1,4 @@
-[Table of Contents](/Linux+/Linux+%20Table%20of%20Contents.md)
+[Table of Contents](Linux+/00_Linux+_Table_of_Contents.md)
 
 # Answers & Test Notes
 

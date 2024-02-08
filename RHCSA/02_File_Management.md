@@ -1,4 +1,4 @@
-[Table of Contents](/RHCSA/RHCSA%20Table%20of%20Contents.md)
+[Table of Contents](RHCSA/00_RHCSA_Table_of_Contents.md)
 
 # Filename Globbing
 ## Filename Globbing

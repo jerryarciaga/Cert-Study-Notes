@@ -1,4 +1,4 @@
-[Table of Contents](/Linux+/Linux+%20Table%20of%20Contents.md)
+[Table of Contents](Linux+/00_Linux+_Table_of_Contents.md)
 # Answers and Test Notes
 1. You have a shared Linux workstation  publicly available to patients and general personnel within a medical office. You need to ensure that no one can boot up the system unless the individual has authorization from the front desk. Which security feature should you use to restrict access? **Answer: BIOS Password**
 2. `mount` is the command you should use to view all of the currently mounted filesystems.

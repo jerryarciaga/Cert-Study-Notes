@@ -1,4 +1,4 @@
-[Table of Contents](/RHCSA/RHCSA%20Table%20of%20Contents)
+[Table of Contents](RHCSA/00_RHCSA_Table_of_Contents.md)
 
 # Using `gzip` and `gunzip` to Compress/Decompress Files
 * `gzip directory` compresses `directory` into `directory.gz`

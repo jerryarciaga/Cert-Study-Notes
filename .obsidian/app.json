@@ -4,5 +4,7 @@
   "showLineNumber": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "newLinkFormat": "absolute",
+  "newFileLocation": "current"
 }
