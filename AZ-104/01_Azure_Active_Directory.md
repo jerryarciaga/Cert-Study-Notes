@@ -1,3 +1,4 @@
+# Azure Active Directory
 # Introduction
 ## Intro to Azure AD
 * **Azure AD** - Microsoft's cloud-based identity and access management service
@@ -84,3 +85,41 @@ The group owner can let users find their groups to join, instead of assigning th
 * Share apps with external users (B2B collaboration)
 * Develop apps intended for other Azure AD tenants (single-tenant or multi-tenant)
 * Develop white-labeled apps for consumers and customers (Azure AD B2C)
+# Follow Along
+## Create a Tenant
+1. Go to https://portal.azure.com and log in.
+2. Type in search bar: **Azure Active Directory**
+	Note: Azure Active Directory is now called **Microsoft Entra ID**
+3. Click on **Manage Tenants**
+4. Click **Create Tenant**. Take note of the following options:
+	1. Microsoft Entra ID - Business to Business
+	2. Azure AD B2C - Business to Consumer
+5. Click **Configure**
+6. On configuration, enter the following information:
+	1. Organization Name
+	2. Initial Domain Name
+	3. Location
+7. Click **Review + Create**
+8. Wait a few minutes until a tenant has been created.
+## Upgrade License
+1. Switch between tenants by search for Microsoft Entra ID then clicking to the new tenant. Then click Switch Tenants.
+2. Click on **Licences** on the left hand corner.
+3. Click on **All Products** then **Try/Buy**.
+4. Click on desired license
+	1. Microsoft Entra ID Governance
+	2. Microsoft Entra ID P2
+5. Wait until your license has been upgraded to desired license
+## User and Groups
+* Since users require a group, you cannot create users without a group. You will have to create a group then create a user.
+### Create a Group
+1. Click **Add**, then **Group**.
+2. Fill in the following information:
+	1. **Group Type**: **Security** (could be users, devices, service principals) of **Microsoft 365** (could only be users)
+	2. **Group Name**
+	3. **Group Description**
+	4. **Membership Type**: only **Assigned** is available for the free tier
+3. Click **Create Group**
+### Create a User
+1. On the left side of the **Microsoft Entra ID Dashboard**, click on **Users**
+2. Click on **Add**, then **User**
+3. Enter required info, then click **Create**

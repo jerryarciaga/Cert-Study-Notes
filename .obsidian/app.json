@@ -6,5 +6,7 @@
   "alwaysUpdateLinks": true,
   "showInlineTitle": false,
   "newLinkFormat": "absolute",
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "readableLineLength": true,
+  "strictLineBreaks": false
 }
