@@ -1,3 +1,5 @@
+# Introduction
+Notes are taken from a [course from freeCodeCamp.org on YouTube.](https://www.youtube.com/watch?v=10PbGbTUSAg&t=3448s) This is only intended for personal use.
 # AZ-104 Table of Contents
 1. [Azure Active Directory](01_Azure_Active_Directory.md)
 2. [Device Management]()
