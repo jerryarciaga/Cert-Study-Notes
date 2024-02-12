@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AZ-104/01a_Azure_Active_Directory_Cheat_Sheet.md",
-                "mode": "source",
+                "file": "AZ-104/01_Azure_Active_Directory.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1c4ad443a569069c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AZ-104/01a_Azure_Active_Directory_Cheat_Sheet.md",
+                "file": "AZ-104/01_Azure_Active_Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AZ-104/01a_Azure_Active_Directory_Cheat_Sheet.md",
+                "file": "AZ-104/01_Azure_Active_Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AZ-104/01a_Azure_Active_Directory_Cheat_Sheet.md"
+                "file": "AZ-104/01_Azure_Active_Directory.md"
               }
             }
           }
@@ -149,10 +148,10 @@
   },
   "active": "dd51c2468f04d204",
   "lastOpenFiles": [
-    "AZ-104/01_Azure_Active_Directory.md",
     "AZ-104/01a_Azure_Active_Directory_Cheat_Sheet.md",
     "AZ-104/00_AZ-104_Table_of_Contents.md",
     "README.md",
+    "AZ-104/01_Azure_Active_Directory.md",
     "AZ-104/Untitled",
     "Untitled.md",
     "AZ-900/01_Describe_Cloud_Concepts.md",
