@@ -8,5 +8,6 @@
   "newLinkFormat": "absolute",
   "newFileLocation": "current",
   "readableLineLength": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "smartIndentList": true
 }
