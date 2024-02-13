@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AZ-104/03_Azure_Roles.md",
-                "mode": "source",
+                "file": "AZ-104/03a_Azure_Roles_Cheat_Sheet.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 250.5,
     "collapsed": true
   },
   "right": {
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AZ-104/03_Azure_Roles.md",
+                "file": "AZ-104/03a_Azure_Roles_Cheat_Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AZ-104/03_Azure_Roles.md",
+                "file": "AZ-104/03a_Azure_Roles_Cheat_Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AZ-104/03_Azure_Roles.md"
+                "file": "AZ-104/03a_Azure_Roles_Cheat_Sheet.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   },
   "active": "dd51c2468f04d204",
   "lastOpenFiles": [
-    "AZ-104/01_Azure_Active_Directory.md",
-    "AZ-104/02a_Device_Management_Cheatsheet.md",
-    "AZ-104/00_AZ-104_Table_of_Contents.md",
+    "AZ-104/02a_Device_Management_Cheat_Sheet.md",
+    "AZ-104/03a_Azure_Roles_Cheat_Sheet.md",
     "AZ-104/03_Azure_Roles.md",
+    "AZ-104/01_Azure_Active_Directory.md",
+    "AZ-104/00_AZ-104_Table_of_Contents.md",
     "AZ-104/02_Device_Management.md",
     "AZ-104/01a_Azure_Active_Directory_Cheat_Sheet.md",
     "README.md",
@@ -179,7 +180,6 @@
     "Securint Linux.md",
     "Authentication.md",
     "RHCSA/1. Using Linux Shells.md",
-    "Linux+/2. Securing Linux.md",
     "RHCSA",
     "Practice Test Notes"
   ]
