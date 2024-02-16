@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "823215d7780f32e2",
+        "id": "9f8a11b1544202c5",
         "type": "tabs",
         "children": [
           {
-            "id": "e8e5be416b029e4d",
+            "id": "77e409c6bd6030d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AZ-104/04a_Azure_Policies_Cheat_Sheet.md",
+                "file": "AZ-104/05_Azure_Resource_Manager.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AZ-104/04a_Azure_Policies_Cheat_Sheet.md",
+                "file": "AZ-104/05_Azure_Resource_Manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AZ-104/04a_Azure_Policies_Cheat_Sheet.md",
+                "file": "AZ-104/05_Azure_Resource_Manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AZ-104/04a_Azure_Policies_Cheat_Sheet.md"
+                "file": "AZ-104/05_Azure_Resource_Manager.md"
               }
             }
           }
@@ -147,12 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8e5be416b029e4d",
+  "active": "77e409c6bd6030d4",
   "lastOpenFiles": [
-    "AZ-104/04_Azure_Policies.md",
-    "AZ-104/04a_Azure_Policies_Cheat_Sheet.md",
+    "AZ-104/05_Azure_Resource_Manager.md",
     "AZ-104/01_Azure_Active_Directory.md",
     "AZ-104/00_AZ-104_Table_of_Contents.md",
+    "AZ-104/04a_Azure_Policies_Cheat_Sheet.md",
+    "AZ-104/04_Azure_Policies.md",
     "AZ-104/02a_Device_Management_Cheat_Sheet.md",
     "AZ-104/03_Azure_Roles.md",
     "AZ-104/03a_Azure_Roles_Cheat_Sheet.md",
@@ -179,7 +180,6 @@
     "RHCSA/03_Archiving.md",
     "AZ-900",
     "RHCSA/Performing Actions on Files that are Found.md",
-    "Securint Linux.md",
     "RHCSA",
     "Practice Test Notes"
   ]
