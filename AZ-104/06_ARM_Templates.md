@@ -43,14 +43,14 @@ IaC's can either be:
 }
 ```
 
-`$schema` describes the properties that are available within a template
-`contentVersion` the version of the template. You can provide any value for this element
-`apiProfile` Use this value to avoid having to specify API versions for each resource in the template
-`parameters` values you can pass along to your template
-`variables` you transform parameters or resource properties using function expressions
-`functions` User-defined functions available within the template
-`resources` the Azure resources you'll want to deploy or update
-`outputs` values that are returned after deployment
+* `$schema` describes the properties that are available within a template
+* `contentVersion` the version of the template. You can provide any value for this element
+* `apiProfile` Use this value to avoid having to specify API versions for each resource in the template
+* `parameters` values you can pass along to your template
+* `variables` you transform parameters or resource properties using function expressions
+* `functions` User-defined functions available within the template
+* `resources` the Azure resources you'll want to deploy or update
+* `outputs` values that are returned after deployment
 # ARM Template Resources
 **Resource** An Azure Resource you want to provision
 * `type` Type of the resources. Follows the format of `{ResourceProvider}/ResourceType`
