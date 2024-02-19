@@ -64,3 +64,20 @@ In the **Azure Portal** you can set the following lock levels:
 * **CanNotDelete (Delete)** - Authorized users can still read and modify a resource, but they can't delete the resource
 * **ReadOnly (Read-Only)** - Authorized users can read a resource, but they can't delete or update the resource
 # Azure Blueprints
+**Azure Blueprints** enable quick creation of **governed subscriptions**.
+Compose artifacts based on common or organization-based patterns into re-usable blueprints.
+Blueprints are a declarative way to orchastrate the deployment of various resource templates and other artifacts such as:
+* Role Assignments
+* Policy Assignments
+* Azure Resource Manager templates (ARM templates)
+* Resource Groups
+The Azure Blueprints service is backed by the globally distributed **Azure Cosmos DB**. Blueprint objects are replicated to multiple Azure regions.
+## ARM Templates vs Azure Blueprints
+Nearly everything that you want to include for deployment in Azure Blueprints can be accomplished with an ARM Template.
+## ARM Template
+* ARM templates are stored either locally or in source control.
+* There's no active connection or relationship to the ARM template
+## Azure Blueprints
+* relationship between the blueprint definition (what *should be* deployed) and the blueprint assignment (what *was* deployed)
+* can also upgrade several subscriptions at once that are governed by the same blueprint.
+* Azure Blueprints supports **improved tracking and auditing of deployments**
