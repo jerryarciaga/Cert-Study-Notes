@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AZ-104/05_Azure_Resource_Manager.md",
+                "file": "AZ-104/06_ARM_Templates.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8dc0f5209e9d6972",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AZ-104/05_Azure_Resource_Manager.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AZ-104/05_Azure_Resource_Manager.md",
+                "file": "AZ-104/06_ARM_Templates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AZ-104/05_Azure_Resource_Manager.md",
+                "file": "AZ-104/06_ARM_Templates.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AZ-104/05_Azure_Resource_Manager.md"
+                "file": "AZ-104/06_ARM_Templates.md"
               }
             }
           }
@@ -149,16 +161,18 @@
   },
   "active": "77e409c6bd6030d4",
   "lastOpenFiles": [
-    "AZ-104/05_Azure_Resource_Manager.md",
-    "AZ-104/01_Azure_Active_Directory.md",
     "AZ-104/00_AZ-104_Table_of_Contents.md",
-    "AZ-104/04a_Azure_Policies_Cheat_Sheet.md",
-    "AZ-104/04_Azure_Policies.md",
-    "AZ-104/02a_Device_Management_Cheat_Sheet.md",
-    "AZ-104/03_Azure_Roles.md",
-    "AZ-104/03a_Azure_Roles_Cheat_Sheet.md",
+    "AZ-104/06_ARM_Templates.md",
+    "AZ-104/05_Azure_Resource_Manager.md",
+    "AZ-104/05a_Azure_Resource_Management_Cheat_Sheet.md",
     "AZ-104/02_Device_Management.md",
     "AZ-104/01a_Azure_Active_Directory_Cheat_Sheet.md",
+    "AZ-104/01_Azure_Active_Directory.md",
+    "AZ-104/03_Azure_Roles.md",
+    "AZ-104/03a_Azure_Roles_Cheat_Sheet.md",
+    "AZ-104/04_Azure_Policies.md",
+    "AZ-104/04a_Azure_Policies_Cheat_Sheet.md",
+    "AZ-104/02a_Device_Management_Cheat_Sheet.md",
     "README.md",
     "AZ-104/Untitled",
     "Untitled.md",
@@ -177,9 +191,7 @@
     "AZ-104/Prerequisites for Azure Administrators.md",
     "AZ-104",
     "AZ-900/Untitled.canvas",
-    "RHCSA/03_Archiving.md",
     "AZ-900",
-    "RHCSA/Performing Actions on Files that are Found.md",
     "RHCSA",
     "Practice Test Notes"
   ]
