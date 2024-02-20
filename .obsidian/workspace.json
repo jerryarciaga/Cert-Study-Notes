@@ -13,20 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AZ-104/06_ARM_Templates.md",
+                "file": "AZ-104/06a_ARM_Templates_Cheat_Sheet.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8dc0f5209e9d6972",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AZ-104/05_Azure_Resource_Manager.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AZ-104/06_ARM_Templates.md",
+                "file": "AZ-104/06a_ARM_Templates_Cheat_Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AZ-104/06_ARM_Templates.md",
+                "file": "AZ-104/06a_ARM_Templates_Cheat_Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AZ-104/06_ARM_Templates.md"
+                "file": "AZ-104/06a_ARM_Templates_Cheat_Sheet.md"
               }
             }
           }
@@ -161,9 +149,11 @@
   },
   "active": "77e409c6bd6030d4",
   "lastOpenFiles": [
-    "AZ-104/00_AZ-104_Table_of_Contents.md",
     "AZ-104/06_ARM_Templates.md",
+    "AZ-104/06a_ARM_Templates_Cheat_Sheet.md",
+    "AZ-104/Untitled.canvas",
     "AZ-104/05_Azure_Resource_Manager.md",
+    "AZ-104/00_AZ-104_Table_of_Contents.md",
     "AZ-104/05a_Azure_Resource_Management_Cheat_Sheet.md",
     "AZ-104/02_Device_Management.md",
     "AZ-104/01a_Azure_Active_Directory_Cheat_Sheet.md",
@@ -188,7 +178,6 @@
     "AZ-900/00_AZ-900_Table_of_Contents.md",
     "RHCSA/02_File_Management.md",
     "RHCSA/01_Using_Linux_Shells.md",
-    "AZ-104/Prerequisites for Azure Administrators.md",
     "AZ-104",
     "AZ-900/Untitled.canvas",
     "AZ-900",
