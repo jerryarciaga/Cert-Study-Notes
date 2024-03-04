@@ -5,3 +5,11 @@
 	* **Imperative** - You define what you generally want, and the service will guess what you want
 * **ARM Templates** are **JSON files that define Azure Resources** you want to provision and azure services you want to configure.
 * **ARM Templates** are declarative.
+* An ARM Template is made of the following JSON structure:
+	* `$schema`
+	* `contentVersion
+	* `apiProfile`
+	* `parameters`
+	* `variables`
+	* `functions`
+	* `resources`

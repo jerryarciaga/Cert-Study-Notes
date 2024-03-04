@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AZ-104/06a_ARM_Templates_Cheat_Sheet.md",
+                "file": "AZ-104/07_Storage_Accounts.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AZ-104/06a_ARM_Templates_Cheat_Sheet.md",
+                "file": "AZ-104/07_Storage_Accounts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AZ-104/06a_ARM_Templates_Cheat_Sheet.md",
+                "file": "AZ-104/07_Storage_Accounts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AZ-104/06a_ARM_Templates_Cheat_Sheet.md"
+                "file": "AZ-104/07_Storage_Accounts.md"
               }
             }
           }
@@ -147,10 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77e409c6bd6030d4",
+  "active": "65b07ea3ad4407d4",
   "lastOpenFiles": [
-    "AZ-104/06_ARM_Templates.md",
     "AZ-104/06a_ARM_Templates_Cheat_Sheet.md",
+    "AZ-104/07_Storage_Accounts.md",
+    "AZ-104/06_ARM_Templates.md",
     "AZ-104/Untitled.canvas",
     "AZ-104/05_Azure_Resource_Manager.md",
     "AZ-104/00_AZ-104_Table_of_Contents.md",
@@ -177,7 +178,6 @@
     "RHCSA/00_RHCSA_Table_of_Contents.md",
     "AZ-900/00_AZ-900_Table_of_Contents.md",
     "RHCSA/02_File_Management.md",
-    "RHCSA/01_Using_Linux_Shells.md",
     "AZ-104",
     "AZ-900/Untitled.canvas",
     "AZ-900",
